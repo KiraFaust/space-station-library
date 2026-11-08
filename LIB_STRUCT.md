@@ -1,4 +1,4 @@
-- Resource Assets -
+# - Resource Assets -
 > .rsi
 >> Global Category (Structures / Interface /  Mobs, etc)
 >>> Category (Machines / Furniture / Computers, etc)
