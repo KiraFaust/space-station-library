@@ -1,0 +1,42 @@
+MIT License
+
+Copyright (c) 2026 FaustNetzach
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Library Code and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+For the purposes of this license:
+
+"Library Code" means the structure and organization of the resource library,
+the library iteration/API code, build and tooling scripts, and any other
+scripts included in this repository, but excludes Resource Assets.
+
+"Resource Assets" means all resources included in the library, including but
+not limited to sprites or spritesheets, and other media or
+content files, together with any files located in their respective folders.
+Resource Assets are not licensed under this MIT License. Each Resource Asset
+is licensed under the terms specified in its accompanying metadata file, such
+as meta.json or an equivalent file located in the folder of that Resource
+Asset. If no such license is specified for a Resource Asset, that Resource
+Asset is not licensed under this MIT License, and all rights remain with its
+respective copyright holder.
+
+None of the sprites have a more restrictive license than CC-BY-NC-ND.
+
+This MIT License does not grant any rights to Resource Assets except as
+expressly stated in the license applicable to each Resource Asset.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
